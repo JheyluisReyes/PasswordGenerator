@@ -7,7 +7,7 @@ The application gives you a random password with a length of 12 characters which
 ## Getting started
 - Get the code:
     ```
-    git clone https://github.com/JheyluisReyes/passwordgenerator.git
+    git clone https://github.com/JheyluisReyes/PasswordGenerator.git
     ```
 
 - Open [passwordgenerator.py](passwordgenerator.py) in Visual Studio Code to run the Password Generator app.
