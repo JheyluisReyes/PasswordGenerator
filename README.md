@@ -3,6 +3,7 @@ This is a simple Password Generator written in Python using the random library.<
 The application gives you a random password with a length of 12 characters which is made up of letters, numbers and symbols.
 
   ![Password Generator Screenshot](https://imgur.com/a/mUslAbz)
+  <img src="https://imgur.com/a/mUslAbz" />
 
 ## Getting started
 
@@ -14,4 +15,4 @@ The application gives you a random password with a length of 12 characters which
 
 - Open [passwordgenerator.py](passwordgenerator.py) in Visual Studio Code to run the Password Generator app.
 
-  ![Password Generator Screenshot](images/PasswordGeneratorGIF.gif)
+  ![Password Generator GIF](img/)
