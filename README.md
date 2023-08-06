@@ -5,7 +5,9 @@ The application gives you a random password with a length of 12 characters which
   ![Password Generator Screenshot](images/PasswordGeneratorScreenshot.png)
 
 ## Getting started
+
 - Get the code:
+
     ```
     git clone https://github.com/JheyluisReyes/PasswordGenerator.git
     ```
