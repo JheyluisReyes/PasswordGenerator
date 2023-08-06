@@ -2,7 +2,7 @@
 This is a simple Password Generator written in Python using the random library.<br>
 The application gives you a random password with a length of 12 characters which is made up of letters, numbers and symbols.
 
-  ![Password Generator Screenshot](images/PasswordGeneratorScreenshot.png)
+  ![Password Generator Screenshot](https://imgur.com/a/mUslAbz)
 
 ## Getting started
 
